@@ -27,9 +27,9 @@ const Home: NextPage = () => {
               <Grid>
                 <Text h2>
                   Welcome to{" "}
-                  <NextLink href="https://geist-ui.dev">
-                    <Link color>Geist!</Link>
-                  </NextLink>
+                  <Link href="https://geist-ui.dev" color>
+                    Geist!
+                  </Link>
                 </Text>
               </Grid>
               <Grid>
