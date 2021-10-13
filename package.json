@@ -9,13 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@geist-ui/react": "^2.2.0",
+    "@geist-ui/react-icons": "^1.0.1",
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
     "@types/react": "17.0.29",
-    "eslint": "8.0.0",
+    "eslint": "7.23.0",
     "eslint-config-next": "11.1.2",
     "typescript": "4.4.4"
   }
